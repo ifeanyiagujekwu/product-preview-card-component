@@ -1,0 +1,76 @@
+body{
+    background-color: hsl(30, 38%, 92%)
+}
+
+.container{
+    display: flex;
+    width: 600px;
+    margin: auto;
+    margin-top: 10vw;
+    align-items: center;
+}
+
+img{
+    height: 460px;  
+}
+
+.container2{
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.first{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: monospace;
+}
+
+.second{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.third{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: hsl(228, 12%, 48%);
+}
+
+.fourthandfifth{
+    display: flex;
+}
+
+.fourth{
+    color: hsl(158, 36%, 37%);
+    font-weight: bold;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.fifth{
+    margin-left: 20px;
+    margin-top: 10px;
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+
+}
+
+button{
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 5px;
+    border: 0px;
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution{
+   
+    
+}
